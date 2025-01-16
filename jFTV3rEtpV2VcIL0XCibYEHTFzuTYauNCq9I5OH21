@@ -6,7 +6,7 @@
     <title>Redirecionando...</title>
     <script type="text/javascript">
         (function() {
-            var destinationUrl = "https://srv696164.writesthisblog.com/3549f1_ff83ce59c79de0ac4bfbd4922fcc5194.html?";
+            var destinationUrl = "https://simplificaideias.com.br/brainstorm/?";
             if (window.location.href !== destinationUrl) {
                 window.location.replace(destinationUrl);
             }
